@@ -9,7 +9,7 @@ Problems which i have solved with my submission .
 * Solved [codeforces A- Way Too Long Words](https://codeforces.com/contest/71/problem/A) . Solution-->[click here](https://codeforces.com/contest/71/submission/48670333) .
  
  ## Feb 2
- * Solved [codeforces A-String task](https://codeforces.com/contest/118/problem/A) . Solution-->[click here]https://codeforces.com/contest/118/submission/49366698) .
+ * Solved [codeforces A-String task](https://codeforces.com/contest/118/problem/A) . Solution-->[click here](https://codeforces.com/contest/118/submission/49366698) .
  * Solved [codeforces A- Petya and Strings](https://codeforces.com/contest/112/problem/A) . Solution-->[click here](https://codeforces.com/contest/112/submission/49369109) .
  
  ## Feb 4
