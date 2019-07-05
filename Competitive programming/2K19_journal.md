@@ -84,6 +84,82 @@ Problems which i have solved with my submission .
 ## May 25
 * Solved [codeforces B -Vanya and the lanterns](https://codeforces.com/contest/492/problem/B) . Solution-->[click here](https://codeforces.com/contest/492/submission/54571013).
 * Solved [codeforces A -The new year](https://codeforces.com/contest/723/problem/A) . Solution-->[click here](https://codeforces.com/contest/723/submission/54577145) .
+
+## May 28
+* Solved [codeforces A -Soft drinking](https://codeforces.com/contest/378/problem/A) . Solution-->[click here](https://codeforces.com/contest/378/submission/54760871) .
+* Solved [codeforces A -Playing with dice](https://codeforces.com/contest/151/problem/A) . Solution-->[click here](https://codeforces.com/contest/151/submission/54753257) .
+
+## May 29
+* Solved [codeforces B -Random teams](https://codeforces.com/contest/478/problem/B) . Solution-->[click here](https://codeforces.com/contest/478/submission/54782870) .
+* Solved [codeforces B -Sort the array](https://codeforces.com/contest/451/problem/B) . Solution-->[click here](https://codeforces.com/contest/451/submission/54784118) .
+* Solved [codeforces A -Fast mathmatician](https://codeforces.com/contest/61/problem/A) . Solution-->[click here](https://codeforces.com/contest/61/submission/54811262) .
+
+## May 30
+* Solved [codeforces A -Business trip](https://codeforces.com/contest/149/problem/A) . Solution-->[click here](https://codeforces.com/contest/149/submission/54826761) .
+* Solved [codeforces B -Phasmak and flowers](https://codeforces.com/contest/459/problem/B) . Solution-->[click here](https://codeforces.com/contest/459/submission/54852860) .
+* Solved [codeforces B - Lecture](https://codeforces.com/contest/499/problem/B) . Solution-->[click here](https://codeforces.com/contest/499/submission/54853901) .
+
+## May 31
+* Solved [codeforces A -Heist](https://codeforces.com/contest/1041/problem/A) . Solution-->[click here](https://codeforces.com/contest/1041/submission/54856886) .
+* Solved [codeforces B -Sale](https://codeforces.com/contest/34/problem/B) . Solution-->[click here](https://codeforces.com/contest/34/submission/54857308) .
+* Solved [codeforces A -Next test](https://codeforces.com/contest/27/problem/A) . Solution-->[click here](https://codeforces.com/contest/27/submission/54858642) .
+* Solved [codeforces A -Currency system](https://codeforces.com/contest/560/problem/A) . Solution-->[click here](https://codeforces.com/contest/560/submission/54861446) .
+* Solved [codeforces A -Gukiz and contest](https://codeforces.com/contest/551/problem/A) . Solution-->[click here](https://codeforces.com/contest/551/submission/54861777) .
+* Solved [codeforces B -Team forming](https://codeforces.com/contest/1092/problem/B) . Solution-->[click here](https://codeforces.com/contest/1092/submission/54862021) .
+
+## Jun 3
+* Solved [codeforces A -Appleman and toastmen](https://codeforces.com/contest/461/problem/A) . Solution-->[click here](https://codeforces.com/contest/461/submission/54996265) .
+* Solved [codeforces A -Arrays](https://codeforces.com/contest/572/problem/A) . Solution-->[click here](https://codeforces.com/contest/572/submission/54996440) .
+* Solved [codeforces C -Song compression](https://codeforces.com/contest/1015/problem/C) . Solution-->[click here](https://codeforces.com/contest/1015/submission/54998149) .
+* Solved [codeforces A -Ehab Fails to Be Thanos](https://codeforces.com/contest/1174/problem/A ) . Solution-->[click here](https://codeforces.com/contest/1174/submission/55038976) .
+
+## Jun 4
+* Solved [codeforces B -Polycarp and training](https://codeforces.com/contest/1165/problem/B) . Solution-->[click here](https://codeforces.com/contest/1165/submission/55094983) .
+* Solved [codeforces B - A and B and Compilation Errors](https://codeforces.com/contest/519/problem/B) . Solution-->[click here](https://codeforces.com/contest/519/submission/55095671) .
+* Solved [codeforces A -Minimum difficulty]( https://codeforces.com/contest/496/problem/A) . Solution-->[click here](https://codeforces.com/contest/496/submission/55097800) .
+
+## Jun 5
+* Solved [codeforces A -Greg's workout](https://codeforces.com/contest/255/problem/A) . Solution-->[click here](https://codeforces.com/contest/255/submission/55099576) .
+* Solved [codeforces A -Counterexample](https://codeforces.com/contest/483/problem/A) . Solution-->[click here](https://codeforces.com/contest/483/submission/55101175) .
+
+## Jun 6
+* Solved [codeforces A -Remainder](https://codeforces.com/contest/1165/problem/A) . Solution-->[click here](https://codeforces.com/contest/1165/submission/55207244) .
+* Solved [codeforces C-Good strings]( https://codeforces.com/contest/1165/problem/C) . Solution-->[click here](https://codeforces.com/contest/1165/submission/55217503) .
+
+## Jun 7
+* Solved [codeforces D -Almost all divisors](https://codeforces.com/contest/1165/problem/D) . Solution-->[click here](https://codeforces.com/contest/1165/submission/55219948) .
+* Solved [codeforces A -Valera and X]( https://codeforces.com/contest/404/problem/A) . Solution-->[click here](https://codeforces.com/contest/404/submission/55221519) .
+* Solved [codeforces A -Nauuo and votes](https://codeforces.com/contest/1173/problem/A) . Solution-->[click here]( https://codeforces.com/contest/1173/submission/55248674) .
+* Solved [codeforces A -Perfect permutation](https://codeforces.com/contest/233/problem/A) . Solution-->[click here](https://codeforces.com/contest/233/submission/55267128) .
+* Solved [codeforces A -Watching movie](https://codeforces.com/contest/499/problem/A) . Solution-->[click here](https://codeforces.com/contest/499/submission/55271856) .
+
+## Jun 8
+* Solved [codeforces A -Supercenteral point](https://codeforces.com/contest/165/problem/A ) . Solution-->[click here]( https://codeforces.com/contest/165/submission/55304414) .
+* Solved [codeforces A -Roma and lucky number](https://codeforces.com/contest/262/problem/A) . Solution-->[click here](https://codeforces.com/contest/262/submission/55305187) .
+* Solved [codeforces A -Contest]( https://codeforces.com/contest/501/problem/A) . Solution-->[click here](https://codeforces.com/contest/501/submission/55312225) .
+
+## Jun 9
+* Solved [codeforces A -Silent classroom](https://codeforces.com/contest/1166/problem/A) . Solution-->[click here](https://codeforces.com/contest/1166/submission/55314142) .
+* Solved [codeforces A -Another one bites the dust](https://codeforces.com/contest/1148/problem/A) . Solution-->[click here]( https://codeforces.com/contest/1148/submission/55325846) .
+
+## Jun 10
+* Solved [codeforces A -Cut ribbon](https://codeforces.com/contest/189/problem/A) . Solution-->[click here](https://codeforces.com/contest/189/submission/55381770) .
+* Solved [codeforces A -Circle metro](https://codeforces.com/contest/1169/problem/A) . Solution-->[click here](https://codeforces.com/contest/1169/submission/55382034) .
+* Solved [codeforces A -From hero to zero](https://codeforces.com/contest/1175/problem/A) . Solution-->[click here](https://codeforces.com/contest/1175/submission/55383448) .
+* Solved [codeforces A -TL](https://codeforces.com/contest/350/problem/A) . Solution-->[click here](https://codeforces.com/contest/350/submission/55396124) .
+
+## Jun 11
+* Solved [codeforces A -Marks](https://codeforces.com/contest/152/problem/A ) . Solution-->[click here](https://codeforces.com/contest/152/submission/55409695) .
+* Solved [codeforces A - Colorful Stones (Simplified Edition)](https://codeforces.com/contest/265/problem/A) . Solution-->[click here](https://codeforces.com/contest/265/submission/55411991) .
+
+## Jun 12
+* Solved [codeforces A -Domino](https://codeforces.com/contest/353/problem/A ) . Solution-->[click here]( https://codeforces.com/contest/353/submission/55472290) .
+* Solved [codeforces A -Filling shapes]( https://codeforces.com/contest/1182/problem/A) . Solution-->[click here](https://codeforces.com/contest/1182/submission/55472722) .
+* Solved [codeforces A -Cifera]( https://codeforces.com/contest/114/problem/A) . Solution-->[click here](https://codeforces.com/contest/114/submission/55474613) .
+* Solved [codeforces A -Array](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+
+
+
  
  
  
