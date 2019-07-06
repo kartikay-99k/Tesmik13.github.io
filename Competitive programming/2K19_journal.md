@@ -157,8 +157,48 @@ Problems which i have solved with my submission .
 * Solved [codeforces A -Filling shapes]( https://codeforces.com/contest/1182/problem/A) . Solution-->[click here](https://codeforces.com/contest/1182/submission/55472722) .
 * Solved [codeforces A -Cifera]( https://codeforces.com/contest/114/problem/A) . Solution-->[click here](https://codeforces.com/contest/114/submission/55474613) .
 * Solved [codeforces A -Array](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces A -Fox and the game](https://codeforces.com/contest/389/problem/A) . Solution-->[click here](https://codeforces.com/contest/389/submission/55501301) .
+* Solved [codeforces A -Giga tower](https://codeforces.com/contest/488/problem/A) . Solution-->[click here](https://codeforces.com/contest/488/submission/55505514) .
 
+## Jun 15
+* Solved [codeforces A -Parallelopiped]( https://codeforces.com/contest/224/problem/A) . Solution-->[click here](https://codeforces.com/contest/224/submission/55600395) .
 
+## Jun 16
+* Solved [codeforces A -Divide it!](https://codeforces.com/contest/1176/problem/A) . Solution-->[click here](https://codeforces.com/contest/1176/submission/55601197) .
+
+## Jun 17
+* Solved [codeforces A -DZY loves chessboard](https://codeforces.com/contest/445/problem/A) . Solution-->[click here](https://codeforces.com/contest/445/submission/55659200) .
+* Solved [codeforces B - T-Primes](https://codeforces.com/contest/230/problem/B) . Solution-->[click here](https://codeforces.com/contest/230/submission/55659989) .
+* Solved [codeforces B -Anton and currrency]( https://codeforces.com/contest/508/problem/B) . Solution-->[click here](https://codeforces.com/contest/508/submission/55662917) .
+* Solved [codeforces B -DZY loves string](https://codeforces.com/contest/447/problem/B) . Solution-->[click here](https://codeforces.com/contest/447/submission/55663546) .
+* Solved [codeforces A -Football]( https://codeforces.com/contest/43/problem/A) . Solution-->[click here](https://codeforces.com/contest/43/submission/55663717) .
+* Solved [codeforces A -Life without 0](https://codeforces.com/contest/75/problem/A) . Solution-->[click here](https://codeforces.com/contest/75/submission/55664694) .
+* Solved [codeforces A -Yaroslav and permutation](https://codeforces.com/contest/296/problem/A) . Solution-->[click here](https://codeforces.com/contest/296/submission/55665301) .
+
+## Jun 18
+* Solved [codeforces B -Arms and pins](https://codeforces.com/contest/507/problem/B) . Solution-->[click here](https://codeforces.com/contest/507/submission/55692219) .
+* Solved [codeforces A -Collecting beat is fun](https://codeforces.com/contest/373/problem/A) . Solution-->[click here]( https://codeforces.com/contest/373/submission/55692922) .
+* Solved [codeforces B -Sort by shift](https://codeforces.com/contest/454/problem/B) . Solution-->[click here](https://codeforces.com/contest/454/submission/55694585) .
+* Solved [codeforces A -Levko and tables](https://codeforces.com/contest/361/problem/A) . Solution-->[click here](https://codeforces.com/contest/361/submission/55695325) .
+* Solved [codeforces B -Jzzhu and sequence](https://codeforces.com/contest/450/problem/B) . Solution-->[click here](https://codeforces.com/contest/450/submission/55695705) .
+* Solved [codeforces A -Vasya and digital root](https://codeforces.com/contest/355/problem/A) . Solution-->[click here](https://codeforces.com/contest/355/submission/55697585) .
+
+## Jun 19
+* Solved [codeforces A -Two bags of potatoes](https://codeforces.com/contest/239/problem/A ) . Solution-->[click here](https://codeforces.com/contest/239/submission/55730824) .
+* Solved [codeforces B -Roadside trees](https://codeforces.com/contest/265/problem/B) . Solution-->[click here](https://codeforces.com/contest/265/submission/55731241) .
+* Solved [codeforces B -Merge it]( https://codeforces.com/contest/1176/problem/B) . Solution-->[click here](https://codeforces.com/contest/1176/submission/55732822) .
+* Solved [codeforces B -Find marbel](https://codeforces.com/contest/285/problem/B ) . Solution-->[click here]( https://codeforces.com/contest/285/submission/55733343) .
+* Solved [codeforces A -Ropewalker](https://codeforces.com/contest/1185/problem/A ) . Solution-->[click here](https://codeforces.com/contest/1185/submission/55760646) .
+
+## Jun 20
+* Solved [codeforces A -The child and homework](https://codeforces.com/contest/437/problem/A) . Solution-->[click here](https://codeforces.com/contest/437/submission/55807097) .
+* Solved [codeforces A -Alex and rhombus](https://codeforces.com/contest/1180/problem/A) . Solution-->[click here](https://codeforces.com/contest/1180/submission/55880231) .
+
+## Jun 24
+* Solved [codeforces A -Soroban](https://codeforces.com/contest/363/problem/A) . Solution-->[click here](https://codeforces.com/contest/363/submission/55981730) .
+
+## Jul 5
+* Solved [codeforces A -Line to the cashier](https://codeforces.com/contest/408/problem/A) . Solution-->[click here](https://codeforces.com/contest/408/submission/56546472) .
 
  
  
