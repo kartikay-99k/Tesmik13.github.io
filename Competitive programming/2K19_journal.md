@@ -214,16 +214,16 @@
 * Solved [codeforces B -Soldires and badges]( https://codeforces.com/contest/546/problem/B ) . Solution-->[click here](https://codeforces.com/contest/546/submission/56766792) .
 
 ## Jul 12
-* Solved [codeforces B -Football kit](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
-* Solved [codeforces A -Interesting neighbour](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
-* Solved [codeforces B -Equalize the prices](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces B -Football kit](https://codeforces.com/contest/432/problem/B         ) . Solution-->[click here](https://codeforces.com/contest/432/submission/56861300) .
+* Solved [codeforces A -Interesting neighbour](https://codeforces.com/contest/1183/problem/A         ) . Solution-->[click here](https://codeforces.com/contest/1183/submission/56861576) .
+* Solved [codeforces B -Equalize the prices](https://codeforces.com/contest/1183/problem/B           ) . Solution-->[click here](https://codeforces.com/contest/1183/submission/56862213) .
 
 ## Jul 13
-* Solved [codeforces A -Enhacements](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
-* Solved [codeforces B -Mahajong](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces A -Enhacements](https://codeforces.com/contest/1191/problem/A           ) . Solution-->[click here](https://codeforces.com/contest/1191/submission/56947077) .
+* Solved [codeforces B -Mahajong](https://codeforces.com/contest/1191/problem/B          ) . Solution-->[click here](https://codeforces.com/contest/1191/submission/56948086) .
 
 ## Jul 14
-* Solved [codeforces A -Dima and contionous lines](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces A -Dima and contionous lines](https://codeforces.com/contest/358/problem/A              ) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
 * Solved [codeforces A -Reconnaissance 2](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
 
 ## Jul 15
