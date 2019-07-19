@@ -202,7 +202,51 @@
 ## Jul 5
 * Solved [codeforces A -Line to the cashier](https://codeforces.com/contest/408/problem/A) . Solution-->[click here](https://codeforces.com/contest/408/submission/56546472) .
 
- 
+## Jul 8
+* Solved [codeforces B -Suffix structure](https://codeforces.com/contest/448/problem/B ) . Solution-->[click here](https://codeforces.com/contest/448/submission/56681184) .
+* Solved [codeforces A -Lever](https://codeforces.com/contest/376/problem/A) . Solution-->[click here](https://codeforces.com/contest/376/submission/56709041) .
+* Solved [codeforces B -Magic square](https://codeforces.com/contest/259/problem/B) . Solution-->[click here](https://codeforces.com/contest/259/submission/56709527) .
+
+## Jul 9
+* Solved [codeforces A -Table](https://codeforces.com/contest/359/problem/A ) . Solution-->[click here](https://codeforces.com/contest/359/submission/56755658) .
+* Solved [codeforces B -OR in matrix](https://codeforces.com/contest/486/problem/B) . Solution-->[click here](https://codeforces.com/contest/486/submission/56763225) .
+* Solved [codeforces A -Eugeny and Array](https://codeforces.com/contest/302/problem/A ) . Solution-->[click here](https://codeforces.com/contest/302/submission/56765001) .
+* Solved [codeforces B -Soldires and badges]( https://codeforces.com/contest/546/problem/B ) . Solution-->[click here](https://codeforces.com/contest/546/submission/56766792) .
+
+## Jul 12
+* Solved [codeforces B -Football kit](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces A -Interesting neighbour](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces B -Equalize the prices](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+
+## Jul 13
+* Solved [codeforces A -Enhacements](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces B -Mahajong](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+
+## Jul 14
+* Solved [codeforces A -Dima and contionous lines](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces A -Reconnaissance 2](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+
+## Jul 15
+* Solved [codeforces A -Theater square](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces A -Help vasilla the wise 2](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces A -Comparing strings](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces A -Palindromic times](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces A -Guess a number!](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+
+## Jul 16
+* Solved [codeforces A -Exams](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces A -Remove a progression](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces A -Card game](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces A -Sockets](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces  B -Little girl and the game](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+
+## Jul 17
+* Solved [codeforces B -Staircases](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+* Solved [codeforces A -Snow footprints](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+
+## Jul 19
+* Solved [codeforces A -Points on spiral](https://codeforces.com/contest/300/problem/A) . Solution-->[click here](https://codeforces.com/contest/300/submission/55477417) .
+
  
  
  
