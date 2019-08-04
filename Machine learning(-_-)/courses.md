@@ -9,7 +9,7 @@
 
 
 
-## 1. [TensorFlow in Practice(4 course specialization)](https://www.coursera.org/specializations/tensorflow-in-practice?specialization=advanced-machine-learning-tensorflow-gcp) [certificate earned](https://www.coursera.org/account/accomplishments/specialization/certificate/DT7F89MZD5BR) .
+## 1. [TensorFlow in Practice(4 course specialization)](https://www.coursera.org/specializations/tensorflow-in-practice?specialization=advanced-machine-learning-tensorflow-gcp)----->>>> [certificate earned](https://www.coursera.org/account/accomplishments/specialization/certificate/DT7F89MZD5BR) .
 
 
 
