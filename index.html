@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Kartikay Gupta — ML Engineer</title>
+  <link rel="stylesheet" href="style.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav class="nav">
+    <span class="nav-logo">KG<span class="dot">.</span></span>
+    <ul class="nav-links">
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#skills">Skills</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-inner">
+      <p class="hero-eyebrow">Machine Learning Engineer</p>
+      <h1 class="hero-title">Building AI systems<br />that do real work.</h1>
+      <p class="hero-sub">
+        I design and ship production-grade ML pipelines — computer vision, document intelligence,
+        NLP, and AI-powered analytics. All projects listed here were built for production
+        environments and are described without proprietary code or confidential data.
+      </p>
+      <div class="hero-stats">
+        <div class="stat">
+          <span class="stat-num">10k+</span>
+          <span class="stat-label">samples processed / day</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num">50k+</span>
+          <span class="stat-label">documents processed / day</span>
+        </div>
+        <div class="stat">
+          <span class="stat-num">75%</span>
+          <span class="stat-label">pipeline latency reduction</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROJECTS -->
+  <section class="section" id="projects">
+    <div class="container">
+      <h2 class="section-title">Selected Projects</h2>
+      <p class="section-note">All work is production-deployed. Code is proprietary — descriptions reflect architecture, approach, and measurable outcomes.</p>
+
+      <!-- Project 1 -->
+      <div class="project-card" id="p1">
+        <div class="project-header">
+          <div>
+            <span class="project-tag">Computer Vision · PyTorch · FastAPI</span>
+            <h3 class="project-title">Automated Microbial Colony Detection &amp; Classification</h3>
+          </div>
+          <span class="project-index">01</span>
+        </div>
+        <p class="project-desc">
+          Designed and deployed a fully automated AI system to detect, count, and classify microbial colonies from petrifilm lab samples — replacing an entire team of manual lab analysts with a GPU-accelerated ML pipeline.
+        </p>
+        <div class="project-detail-grid">
+          <div class="detail-block">
+            <h4>Problem</h4>
+            <p>Lab analysts manually counted colonies on petrifilm plates across multiple test types — Aerobic Count, Yeast &amp; Mold, E. coli, Coliform, Enterobacteria, Lactobacillus, B. cereus, and others. Manual counts were slow, error-prone, and fundamentally limited in throughput.</p>
+          </div>
+          <div class="detail-block">
+            <h4>Solution</h4>
+            <p>Trained Vision Transformers combined with CLIP embedding models and custom PyTorch classifiers to accurately count colonies and handle edge cases like TNTC (Too Numerous To Count) plates. A mechanical imaging bot captures petrifilm images and sends them to the ML system via a FastAPI endpoint, which returns structured colony count reports in real time.</p>
+          </div>
+          <div class="detail-block">
+            <h4>Impact</h4>
+            <ul>
+              <li>Accuracy: <strong>90–100%</strong> across all petrifilm types</li>
+              <li>Throughput: <strong>10,000+ samples/day</strong> vs. &lt;1,000 manually</li>
+              <li>Infrastructure cost: <strong>&lt;$200/month</strong> on AWS GPU — vs. a 20-person analyst team</li>
+              <li>Zero marginal cost at higher volumes — scales horizontally</li>
+            </ul>
+          </div>
+          <div class="detail-block">
+            <h4>Stack</h4>
+            <p>Vision Transformers, CLIP, PyTorch, FastAPI, AWS GPU instances</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Project 2 -->
+      <div class="project-card" id="p2">
+        <div class="project-header">
+          <div>
+            <span class="project-tag">LLM · NL-to-SQL · Data Analytics</span>
+            <h3 class="project-title">Natural Language Analytics Platform for Internal Teams</h3>
+          </div>
+          <span class="project-index">02</span>
+        </div>
+        <p class="project-desc">
+          Built a chat-based analytics system that lets non-technical teams — operations, sales, customer support, and analysts — query live databases and generate visualizations using plain English, with no SQL or coding required.
+        </p>
+        <div class="project-detail-grid">
+          <div class="detail-block">
+            <h4>Problem</h4>
+            <p>Business teams were dependent on developers or analysts to pull data from MongoDB and MySQL databases. Reporting cycles were slow, and teams lacked real-time visibility into their own operational metrics.</p>
+          </div>
+          <div class="detail-block">
+            <h4>Solution</h4>
+            <p>Integrated the Claude LLM API to accept natural language queries, generate the corresponding Python code and database queries, and execute them in a secure sandbox environment connected to production databases. Results — including interactive Plotly charts, tables, and JSON outputs — are rendered directly in the UI for the user to explore and export.</p>
+          </div>
+          <div class="detail-block">
+            <h4>Impact</h4>
+            <ul>
+              <li>Any team member can self-serve data queries — no SQL knowledge needed</li>
+              <li>Eliminated bottleneck of routing every data request through engineering</li>
+              <li>Exports (charts, tables) plug directly into reports and presentations</li>
+              <li>Code execution runs in an isolated sandbox — no direct DB access exposure</li>
+            </ul>
+          </div>
+          <div class="detail-block">
+            <h4>Stack</h4>
+            <p>Claude LLM API, Python, Plotly, MongoDB, MySQL, FastAPI, sandboxed execution environment</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Project 3 -->
+      <div class="project-card" id="p3">
+        <div class="project-header">
+          <div>
+            <span class="project-tag">Document AI · NLP · Computer Vision</span>
+            <h3 class="project-title">AI-Powered Document Data Extraction at Scale</h3>
+          </div>
+          <span class="project-index">03</span>
+        </div>
+        <p class="project-desc">
+          Led the end-to-end development of an AI service for intelligent data extraction from logistics and trade documents — processing 50,000 documents per day with high field-level accuracy across 100+ structured data points.
+        </p>
+        <div class="project-detail-grid">
+          <div class="detail-block">
+            <h4>Problem</h4>
+            <p>Logistics operations required manual extraction of structured data from high-volume, varied document types — Bills of Lading, Arrival Notices, ISFs, Invoices, Packing Lists, and Customs documents. Manual extraction was a critical bottleneck in the data ingestion pipeline.</p>
+          </div>
+          <div class="detail-block">
+            <h4>Solution</h4>
+            <p>Built a multi-model AI pipeline combining Detectron2 for document layout detection, spaCy-based NER models for entity recognition, Google T5 for structured text understanding, and GPT-4 Vision for visually complex documents. Developed a unified API layer for organisation-wide access to all AI extraction services.</p>
+          </div>
+          <div class="detail-block">
+            <h4>Impact</h4>
+            <ul>
+              <li>Extracts <strong>100+ fields</strong> per document — ETA, ETD, Consignee, Shipper, Manufacturer, Port of Lading, Country of Origin, Invoice Number, and more</li>
+              <li>Processes <strong>50,000 documents/day</strong> in production</li>
+              <li>Data ingestion pipeline latency reduced by <strong>75%</strong></li>
+              <li>Single-handedly built and maintained the API layer used across the organisation</li>
+            </ul>
+          </div>
+          <div class="detail-block">
+            <h4>Stack</h4>
+            <p>Detectron2, spaCy, Google T5, GPT-4 Vision, Python, FastAPI</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Project 4 -->
+      <div class="project-card" id="p4">
+        <div class="project-header">
+          <div>
+            <span class="project-tag">PII Redaction · OCR · Compliance</span>
+            <h3 class="project-title">Automated PII Redaction System (DPDPA Compliant)</h3>
+          </div>
+          <span class="project-index">04</span>
+        </div>
+        <p class="project-desc">
+          Built a document redaction application for CA firms and banking clients to automatically detect and redact personally identifiable information in compliance with India's Digital Personal Data Protection Act (DPDPA).
+        </p>
+        <div class="project-detail-grid">
+          <div class="detail-block">
+            <h4>Problem</h4>
+            <p>CA firms and banks handle large volumes of sensitive client documents containing PAN, Aadhaar, bank account details, GST numbers, signatures, and photographs. Manual redaction before sharing documents was time-consuming and prone to missed fields.</p>
+          </div>
+          <div class="detail-block">
+            <h4>Solution</h4>
+            <p>Built a FastAPI-backed web application where users upload documents that are then processed through an OCR pipeline followed by AI-based PII detection using Microsoft Presidio — an open-source framework for detecting, masking, and anonymising sensitive data across text, images, and structured data. Supports custom keyword-based redaction rules, document splitting, and merging.</p>
+          </div>
+          <div class="detail-block">
+            <h4>Impact</h4>
+            <ul>
+              <li>Fully automated redaction of PAN, Aadhaar, bank info, GST, photos, and signatures</li>
+              <li>DPDPA-aligned workflow with audit-ready outputs</li>
+              <li>Custom keyword rules allow clients to extend redaction beyond standard PII</li>
+              <li>Non-technical users can operate the entire workflow via a simple UI</li>
+            </ul>
+          </div>
+          <div class="detail-block">
+            <h4>Stack</h4>
+            <p>FastAPI, Microsoft Presidio, OCR, Python, HTML/CSS</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Project 5 -->
+      <div class="project-card" id="p5">
+        <div class="project-header">
+          <div>
+            <span class="project-tag">Data Science · Streamlit · No-Code ML</span>
+            <h3 class="project-title">No-Code ML &amp; Data Analysis Utility</h3>
+          </div>
+          <span class="project-index">05</span>
+        </div>
+        <p class="project-desc">
+          A self-service data exploration and preprocessing tool built for ML and data science teams — enabling fast EDA, profiling, and visualisation without writing a single line of code.
+        </p>
+        <div class="project-detail-grid">
+          <div class="detail-block">
+            <h4>Problem</h4>
+            <p>Repetitive early-stage data analysis tasks — profiling datasets, visualising distributions, handling missing values, encoding categoricals — consumed significant time before any modelling could begin.</p>
+          </div>
+          <div class="detail-block">
+            <h4>Solution</h4>
+            <p>Built a Streamlit application with integrated Pandas Profiling and Sweetviz for one-click full dataset analysis reports, interactive visualisations, and common preprocessing operations — deployed on Heroku for team access.</p>
+          </div>
+          <div class="detail-block">
+            <h4>Impact</h4>
+            <ul>
+              <li>Reduced time-to-insight for new datasets from hours to minutes</li>
+              <li>Usable by non-engineers — no coding required</li>
+              <li>Generates full HTML analysis reports exportable for documentation</li>
+            </ul>
+          </div>
+          <div class="detail-block">
+            <h4>Stack</h4>
+            <p>Python, Streamlit, Pandas Profiling, Sweetviz, Heroku</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- BTech Project -->
+      <div class="project-card project-card--academic" id="p6">
+        <div class="project-header">
+          <div>
+            <span class="project-tag">Academic · Physics Simulation · ML</span>
+            <h3 class="project-title">Predicting Membrane Stiffness from Droplet Dynamics using ML</h3>
+          </div>
+          <span class="project-index">B.Tech</span>
+        </div>
+        <p class="project-desc">
+          Undergraduate research project combining physics simulation and machine learning to model and predict the mechanical properties of soft substrates from droplet behaviour.
+        </p>
+        <div class="project-detail-grid">
+          <div class="detail-block">
+            <h4>Approach</h4>
+            <p>Simulated droplet dynamics on soft substrates using COMSOL Multiphysics. Experimental data from the simulation was used to train and compare multiple supervised ML models — SVM, Random Forest, Gradient Boosting, and ANNs — to predict membrane stiffness with minimal physical testing.</p>
+          </div>
+          <div class="detail-block">
+            <h4>Significance</h4>
+            <p>Demonstrated that ML can serve as a surrogate for expensive physical experiments in materials science, with models learning the non-linear relationship between droplet shape dynamics and substrate mechanical properties.</p>
+          </div>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- SKILLS -->
+  <section class="section section--dark" id="skills">
+    <div class="container">
+      <h2 class="section-title">Skills &amp; Stack</h2>
+      <div class="skills-grid">
+        <div class="skill-group">
+          <h4>Languages</h4>
+          <div class="skill-tags">
+            <span>Python</span><span>SQL</span><span>C++</span>
+          </div>
+        </div>
+        <div class="skill-group">
+          <h4>ML &amp; AI</h4>
+          <div class="skill-tags">
+            <span>PyTorch</span><span>TensorFlow</span><span>Scikit-learn</span>
+            <span>Detectron2</span><span>spaCy</span><span>Presidio</span>
+            <span>CLIP</span><span>Vision Transformers</span>
+          </div>
+        </div>
+        <div class="skill-group">
+          <h4>LLM &amp; NLP</h4>
+          <div class="skill-tags">
+            <span>GPT-4 Vision</span><span>Claude API</span><span>Google T5</span>
+            <span>NER</span><span>Prompt Engineering</span>
+          </div>
+        </div>
+        <div class="skill-group">
+          <h4>Infrastructure &amp; APIs</h4>
+          <div class="skill-tags">
+            <span>FastAPI</span><span>AWS</span><span>Kafka</span>
+            <span>MongoDB</span><span>MySQL</span>
+          </div>
+        </div>
+        <div class="skill-group">
+          <h4>Domains</h4>
+          <div class="skill-tags">
+            <span>Computer Vision</span><span>Document AI</span><span>NLP</span>
+            <span>ML Integration</span><span>API Development</span><span>Data Analytics</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- CONTACT -->
+  <section class="section" id="contact">
+    <div class="container contact-container">
+      <h2 class="section-title">Work Together</h2>
+      <p class="contact-desc">
+        Open to freelance engagements in ML engineering, computer vision, LLM integration, and document AI.
+        Reach out with a brief description of what you're building.
+      </p>
+      <a href="mailto:your@email.com" class="cta-btn">Get in touch</a>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <span>Kartikay Gupta — ML Engineer</span>
+    <span>All project work is proprietary. Descriptions shared with permission or under NDA terms.</span>
+  </footer>
+
+</body>
+</html>
