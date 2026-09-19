@@ -23,8 +23,3 @@ Personal ML engineering portfolio. Hosted via GitHub Pages / Cloudflare Pages.
 2. Build command: *(leave empty — static site)*
 3. Output directory: `/` (root)
 4. Deploy — live at `yourproject.pages.dev`
-
-## Before Publishing
-
-- Replace `your@email.com` in `index.html` with your actual contact email
-- Optionally add a custom domain in Cloudflare Pages settings
